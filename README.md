@@ -75,20 +75,27 @@ I'm a passionate Python Backend Developer with expertise in building robust and 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+## Projects
 
-<hr/>
+- **Mobile shopping project Backend:** [Here](https://github.com/itm10/LazaProject)
+- **Booking.com clone Backend:** [Here](https://github.com/itm10/P15_Booking)
+- **Wrapbootstrap.com clone Backend:** [Here](https://github.com/itm10/FastAPIProject.git)
+- **Male-fashion with Django:** [Here]
+- **Reminder birthday telegram bot using aiogram :** [Here](https://github.com/itm10/reminder_birthday)
+- **Weather bot with aiogram:** [Here](https://github.com/itm10/weatherbot)
 
 ## Connect with Me
-
-- 📧 Email: ibrohim.tolipovv@gmail.com
-- [✈️ Telegram](https://t.me/Ibrohim1004)
-- [💼 LinkedIn](https://www.linkedin.com/in/ibrohim-tolipov-b959a5246/)
+<div align="center"> 
+  <a href="mailto:ibrohim.tolipovv@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/ibrohim-tolipov-b959a5246/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://t.me/Ibrohim1004" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</div>
 
 Feel free to explore my repositories to see some of my projects and contributions. If you have any questions or collaboration ideas, feel free to reach out! 😊
+
