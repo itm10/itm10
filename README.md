@@ -1,19 +1,16 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Assalomu+Alaykum!+👋;+I'm+Ibrohim+Tolipov!;" />
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=itm10.itm10" alt="visitor badge">
 </h1>
 <p align='center'>
 I like to build things 💻.
 </p>
-<p align='center'>
-  <img src='https://github-readme-stats.vercel.app/api?username=itm10&show_icons=true&theme=synthwave'>
-</p>
-<p align='center'>
-  <a style="margin: 10px;"><img src="https://wakatime.com/share/@itm10/4e8d6005-d306-496b-b81e-21e6881a77e9.svg" alt="Used languages" width="500"></a>
-</p>
-<p align='center'>
-  <a style="margin: 10px;"><img src="https://wakatime.com/share/@itm10/4e8d6005-d306-496b-b81e-21e6881a77e9.svg" alt="Used languages" width="500"></a>
-</p>
-
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=itm10&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
 # Hi there! 👋 I'm Ibrohim
 
