@@ -11,7 +11,7 @@ I like to build things 💻.
   <a style="margin: 10px;"><img src="https://wakatime.com/share/@itm10/4e8d6005-d306-496b-b81e-21e6881a77e9.svg" alt="Used languages" width="500"></a>
 </p>
 <p align='center'>
-  <a style="margin: 10px;"><img src="https://wakatime.com/share/@Hoopakid/4e8d6005-d306-496b-b81e-21e6881a77e9.svg" alt="Used languages" width="500"></a>
+  <a style="margin: 10px;"><img src="https://wakatime.com/share/@itm10/4e8d6005-d306-496b-b81e-21e6881a77e9.svg" alt="Used languages" width="500"></a>
 </p>
 
 
