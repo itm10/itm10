@@ -84,3 +84,11 @@ I'm a passionate Python Backend Developer with expertise in building robust and 
 </div>
 
 <hr/>
+
+## Connect with Me
+
+- 📧 Email: ibrohim.tolipovv@gmail.com
+- ✈️ Telegram: https://t.me/Ibrohim1004
+- 💼 LinkedIn: https://www.linkedin.com/in/ibrohim-tolipov-b959a5246/
+
+Feel free to explore my repositories to see some of my projects and contributions. If you have any questions or collaboration ideas, feel free to reach out! 😊
