@@ -80,7 +80,7 @@ I'm a passionate Python Backend Developer with expertise in building robust and 
 - **Mobile shopping project Backend:** [Here](https://github.com/itm10/LazaProject)
 - **Booking.com clone Backend:** [Here](https://github.com/itm10/P15_Booking)
 - **Wrapbootstrap.com clone Backend:** [Here](https://github.com/itm10/FastAPIProject.git)
-- **Male-fashion with Django:** [Here]
+- **Male-fashion with Django:** [Here](https://github.com/itm10/Male-fashion-Django-project)
 - **Reminder birthday telegram bot using aiogram :** [Here](https://github.com/itm10/reminder_birthday)
 - **Weather bot with aiogram:** [Here](https://github.com/itm10/weatherbot)
 
